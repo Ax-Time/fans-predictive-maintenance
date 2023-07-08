@@ -1,0 +1,8 @@
+# Do not add data and models folders to git
+.DS_Store
+.env
+models/
+.ipynb_checkpoints/
+data/
+venv
+models/
